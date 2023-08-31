@@ -1,2 +1,2 @@
-# dashboards
+# Dashboards
 Example dashboards
